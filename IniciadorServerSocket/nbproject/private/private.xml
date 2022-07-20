@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/jcparedes/Documents/NetBeansProjects/IniciadorServerSocket/src/iniciadorserversocket/ConexionSingleton.java</file>
+            <file>file:/C:/Users/jcparedes/Documents/NetBeansProjects/IniciadorServerSocket/src/iniciadorserversocket/EscuchadorDatos.java</file>
+            <file>file:/C:/Users/jcparedes/Documents/NetBeansProjects/IniciadorServerSocket/src/iniciadorserversocket/IniciadorServerSocket.java</file>
+            <file>file:/C:/Users/jcparedes/Documents/NetBeansProjects/IniciadorServerSocket/src/iniciadorserversocket/Fecha.java</file>
+            <file>file:/C:/Users/jcparedes/Documents/NetBeansProjects/IniciadorServerSocket/src/iniciadorserversocket/EscuchadorClientes.java</file>
+            <file>file:/C:/Users/jcparedes/Documents/NetBeansProjects/IniciadorServerSocket/src/iniciadorserversocket/ParseInfo.java</file>
+            <file>file:/C:/Users/jcparedes/Documents/NetBeansProjects/IniciadorServerSocket/src/iniciadorserversocket/ServidorSkt.java</file>
+            <file>file:/C:/Users/jcparedes/Documents/NetBeansProjects/IniciadorServerSocket/src/iniciadorserversocket/NotificacionesPush.java</file>
+            <file>file:/C:/Users/jcparedes/Documents/NetBeansProjects/IniciadorServerSocket/src/iniciadorserversocket/Monitor.java</file>
+            <file>file:/C:/Users/jcparedes/Documents/NetBeansProjects/IniciadorServerSocket/src/iniciadorserversocket/EventoMensaje.java</file>
+            <file>file:/C:/Users/jcparedes/Documents/NetBeansProjects/IniciadorServerSocket/src/iniciadorserversocket/EnviarMail.java</file>
+            <file>file:/C:/Users/jcparedes/Documents/NetBeansProjects/IniciadorServerSocket/src/iniciadorserversocket/SocketListener.java</file>
+            <file>file:/C:/Users/jcparedes/Documents/NetBeansProjects/IniciadorServerSocket/src/iniciadorserversocket/EventoConexion.java</file>
+        </group>
+    </open-files>
+</project-private>
