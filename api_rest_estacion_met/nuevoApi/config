@@ -1,0 +1,9 @@
+{
+    "conexion":{
+        "server": "localhost",
+        "user" : "jcparedes",
+        "password" : "Julipes81+16",
+        "database" : "bd_estacion_met",
+        "port" : "3306"
+    }
+}
